@@ -1,4 +1,4 @@
-##CNN
+## CNN
 ### Training accuracy : 99.78%
 
 ```
@@ -35,5 +35,5 @@ Epoch 10/10
 
 <br>
 
-##SVM 
+## SVM 
 ### Training accuracy : 98.89%
